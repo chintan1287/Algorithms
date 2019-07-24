@@ -33,7 +33,7 @@ Content:
        - Prims Algorithm
    - Shortest Path (Weighted Directed Graph)
      - Dijastras Algorithm
-     - Bellman's Ford Algorith
+     - Bellman's Ford Algorithm
      - Floyd Warshall All pair shortest path
    - Max Flow
       - Ford Fulkerson
