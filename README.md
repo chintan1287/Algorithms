@@ -38,4 +38,6 @@ Content:
    - Max Flow
       - Ford Fulkerson
 7. String
-   - Naive 
+   - Naive
+   - KMP
+
